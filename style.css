@@ -1,0 +1,77 @@
+.myNav{
+    position:sticky;
+    top: 0;
+    z-index: 1;
+}
+.leftDrawer{
+    height: 100%;
+    width: auto;
+    position: fixed;
+    top: 2;
+    /* left: 0; */
+    
+}
+.rightDrawer{
+    height: 100%;
+    width: auto;
+    position: fixed;
+    top: 2;
+    
+    
+}
+.leftDrawer{
+    height: 100%;
+    width: auto;
+    position: fixed;
+    top: 2;
+    left: 0;
+    
+}
+.alldata{
+    position: relative;
+}
+.icon-green{
+    color: #1877f2;
+}
+.input-icons i {
+    position: absolute;
+}
+  
+/* .input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+} */
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+input[type="search"]::placeholder {  
+                  
+    /* Firefox, Chrome, Opera */ 
+    padding-left: 22px;  
+} 
+.pe-n5{
+    margin-right: -200px;
+}
+.firstSec{
+    list-style-type: none;
+}
+.firstSec li{
+    display: flex;
+}
+.firstSec li h6{
+    padding: 15px;
+    padding-left: 10px;
+}
+.avtar{
+    height: 50px;
+    width: 50px;
+}
+.main{
+    width: 100%;
+    background-color: aqua;
+}
+.main img{
+    width: 100%;
+}
